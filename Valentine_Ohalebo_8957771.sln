@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valentine_Ohalebo_8957771", "Valentine_Ohalebo_8957771\Valentine_Ohalebo_8957771.csproj", "{7EEF1D1D-0697-42A3-9294-B729524D6BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUnitTest", "CalculatorUnitTest\CalculatorUnitTest.csproj", "{BD119EA8-B9FD-45E7-9B1D-0E1949035644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EEF1D1D-0697-42A3-9294-B729524D6BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEF1D1D-0697-42A3-9294-B729524D6BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEF1D1D-0697-42A3-9294-B729524D6BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEF1D1D-0697-42A3-9294-B729524D6BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD119EA8-B9FD-45E7-9B1D-0E1949035644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD119EA8-B9FD-45E7-9B1D-0E1949035644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD119EA8-B9FD-45E7-9B1D-0E1949035644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD119EA8-B9FD-45E7-9B1D-0E1949035644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
